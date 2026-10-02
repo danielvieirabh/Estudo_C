@@ -27,6 +27,7 @@ add_executable(LoopExercicio3 LacoRepeticao/ExerciciosLoop/Exercicio3.c)
 add_executable(Tipos_Numericos tipos_dados/Tipos_Numericos.c)
 add_executable(numeros_binarios NumerosBinarios/numeros_binarios.c)
 
+
 # === MÓDULO: FUNÇÕES (Projeto com arquivos múltiplos) ===
 add_executable(Cabecalho
         funcoes/Cabecalho.c
