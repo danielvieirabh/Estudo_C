@@ -5,7 +5,9 @@
   </component>
   <component name="BackendCodeEditorMiscSettings">
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue" value="Cpp.Editor" type="string" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
   </component>
   <component name="CMakePresetLoader">{
   &quot;useNewFormat&quot;: true
@@ -41,15 +43,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70a4db56-e35e-4466-a67a-39f5e0493122" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ponteiros/Exercicios/Exercicio1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ponteiros/Exercicios/Exercicio2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ponteiros/Exercicios/Exercicio3.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ponteiros/Ponteiros.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ponteiros/Ponteiros2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ponteiros/Ponteiros4.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ponteiros/Ponteiros_Arrays.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EntradaSaidas/Escrita_Arquivos.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EntradaSaidas/Escrita_Arquivos2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EntradaSaidas/Exercicios/Exercicio1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EntradaSaidas/Exercicios/Exercicio2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EntradaSaidas/Exercicios/Exercicio3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EntradaSaidas/Leitura_Arquivos.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EntradaSaidas/Leitura_Arquivos2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EntradaSaidas/Leitura_Arquivos_Soma.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EntradaSaidas/ManipularEntradas.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EntradaSaidas/arquivo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EntradaSaidas/soma.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ponteiros/Exercicios/Exercicio3.c" beforeDir="false" afterPath="$PROJECT_DIR$/ponteiros/Exercicios/Exercicio3.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,9 +93,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "C/C++ File.Cabecalho.c.executor": "Run",
+    "C/C++ File.Escrita_Arquivos.c.executor": "Run",
+    "C/C++ File.Escrita_Arquivos2.c.executor": "Run",
     "C/C++ File.Exercicio1.c.executor": "Run",
     "C/C++ File.Exercicio2.c.executor": "Run",
     "C/C++ File.Exercicio3.c.executor": "Run",
+    "C/C++ File.Leitura_Arquivos.c.executor": "Run",
+    "C/C++ File.Leitura_Arquivos2.c.executor": "Run",
+    "C/C++ File.Leitura_Arquivos_Soma.c.executor": "Run",
+    "C/C++ File.ManipularEntradas.c.executor": "Run",
+    "C/C++ File.OperacoesMatematicas.c.executor": "Run",
     "C/C++ File.Ponteiros.c.executor": "Run",
     "C/C++ File.Ponteiros2.c.executor": "Run",
     "C/C++ File.Ponteiros4.c.executor": "Run",
@@ -201,43 +215,43 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Escrita_Arquivos2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="Escrita_Arquivos2.c" CONFIG_NAME="Escrita_Arquivos2.c">
+      <option name="sourceFile" value="EntradaSaidas\Escrita_Arquivos2.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exercicio1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="Exercicio1.c" CONFIG_NAME="Exercicio1.c">
-      <option name="sourceFile" value="ponteiros\Exercicios\Exercicio1.c" />
+      <option name="sourceFile" value="EntradaSaidas\Exercicios\Exercicio1.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="Exercicio2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="Exercicio2.c" CONFIG_NAME="Exercicio2.c">
-      <option name="sourceFile" value="ponteiros\Exercicios\Exercicio2.c" />
+      <option name="sourceFile" value="EntradaSaidas\Exercicios\Exercicio2.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="Exercicio3.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="Exercicio3.c" CONFIG_NAME="Exercicio3.c">
-      <option name="sourceFile" value="ponteiros\Exercicios\Exercicio3.c" />
+      <option name="sourceFile" value="EntradaSaidas\Exercicios\Exercicio3.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ponteiros4.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="Ponteiros4.c" CONFIG_NAME="Ponteiros4.c">
-      <option name="sourceFile" value="ponteiros\Ponteiros4.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ponteiros_Arrays.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="Ponteiros_Arrays.c" CONFIG_NAME="Ponteiros_Arrays.c">
-      <option name="sourceFile" value="ponteiros\Ponteiros_Arrays.c" />
+    <configuration name="OperacoesMatematicas.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="OperacoesMatematicas.c" CONFIG_NAME="OperacoesMatematicas.c">
+      <option name="sourceFile" value="tipos_dados\OperacoesMatematicas.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="C/C++ File.Cabecalho.c" />
+      <item itemvalue="C/C++ File.Exercicio3.c" />
+      <item itemvalue="C/C++ File.OperacoesMatematicas.c" />
       <item itemvalue="C/C++ File.Exercicio1.c" />
       <item itemvalue="C/C++ File.Exercicio2.c" />
-      <item itemvalue="C/C++ File.Exercicio3.c" />
-      <item itemvalue="C/C++ File.Ponteiros4.c" />
-      <item itemvalue="C/C++ File.Ponteiros_Arrays.c" />
+      <item itemvalue="C/C++ File.Escrita_Arquivos2.c" />
       <item itemvalue="CMake Application.Cabecalho" />
       <item itemvalue="CMake Application.DoWhile" />
       <item itemvalue="CMake Application.EstruturaDecisao" />
@@ -258,8 +272,8 @@
         <item itemvalue="C/C++ File.Exercicio3.c" />
         <item itemvalue="C/C++ File.Exercicio2.c" />
         <item itemvalue="C/C++ File.Exercicio1.c" />
-        <item itemvalue="C/C++ File.Ponteiros4.c" />
-        <item itemvalue="C/C++ File.Ponteiros_Arrays.c" />
+        <item itemvalue="C/C++ File.OperacoesMatematicas.c" />
+        <item itemvalue="C/C++ File.Escrita_Arquivos2.c" />
       </list>
     </recent_temporary>
   </component>
@@ -267,13 +281,20 @@
   "profileIdByStamp": [
     {
       "first": {
-        "##RUN_CONFIGURATION##": "C/C++ File.Ponteiros_Arrays.c"
+        "##RUN_CONFIGURATION##": "C/C++ File.OperacoesMatematicas.c"
       },
       "second": "5289e497-7f63-4972-8472-059a645a2674"
     },
     {
       "first": {
-        "##RUN_CONFIGURATION##": "C/C++ File.Ponteiros4.c"
+        "##RUN_CONFIGURATION##": "C/C++ File.Escrita_Arquivos2.c"
+      },
+      "second": "5289e497-7f63-4972-8472-059a645a2674"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.Cabecalho",
+        "cmake": "CMakeBuildProfile:Debug"
       },
       "second": "5289e497-7f63-4972-8472-059a645a2674"
     },
@@ -303,7 +324,7 @@
       "second": "5289e497-7f63-4972-8472-059a645a2674"
     }
   ],
-  "modificationCount": 29
+  "modificationCount": 48
 }]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
