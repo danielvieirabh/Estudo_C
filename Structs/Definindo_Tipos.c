@@ -1,0 +1,34 @@
+#include <stdio.h>
+#include <string.h>
+//Struct -> estrutura
+struct st_aluno {
+    char matricula[10];
+    char nome[100];
+    char curso[50];
+    int ano_nascimento;
+}; // aluno1 declarar variavel assim ou la em baixo
+
+
+int main() {
+    struct st_aluno aluno1;
+
+    printf("Informe a matricula do aluno: ");
+    fgets(aluno1.matricula, 10 , stdin); // maximo de 10 caracteres na matricula
+
+    printf("Informe o nome do aluno: ");
+    fgets(aluno1.nome, 100 , stdin);
+
+    printf("Informe o curso do aluno: ");
+    fgets(aluno1.curso, 50 , stdin);
+
+    printf("Informe o ano de nascimento do aluno: ");
+    scanf("%d", &aluno1.ano_nascimento);
+
+    printf("======================= DADOS DO ALUNO: =======================\n");
+    printf("Matricula: %s", aluno1.matricula);
+    printf("Nome: %s", aluno1.nome);
+    printf("Curso: %s", aluno1.curso);
+    printf("Ano de nascimento: %d", aluno1.ano_nascimento);
+
+    return 0;
+}

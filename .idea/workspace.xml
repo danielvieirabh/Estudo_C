@@ -43,20 +43,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70a4db56-e35e-4466-a67a-39f5e0493122" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/EntradaSaidas/Escrita_Arquivos.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EntradaSaidas/Escrita_Arquivos2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EntradaSaidas/Exercicios/Exercicio1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EntradaSaidas/Exercicios/Exercicio2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EntradaSaidas/Exercicios/Exercicio3.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EntradaSaidas/Leitura_Arquivos.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EntradaSaidas/Leitura_Arquivos2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EntradaSaidas/Leitura_Arquivos_Soma.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EntradaSaidas/ManipularEntradas.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EntradaSaidas/arquivo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EntradaSaidas/soma.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structs/Definindo_TIpos2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structs/Definindo_Tipos.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structs/Definindo_Tipos3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structs/Definindo_Tipos4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structs/Typedef.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structs/Union.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structs/Union2.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ponteiros/Exercicios/Exercicio3.c" beforeDir="false" afterPath="$PROJECT_DIR$/ponteiros/Exercicios/Exercicio3.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,55 +84,57 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "C/C++ File.Cabecalho.c.executor": "Run",
-    "C/C++ File.Escrita_Arquivos.c.executor": "Run",
-    "C/C++ File.Escrita_Arquivos2.c.executor": "Run",
-    "C/C++ File.Exercicio1.c.executor": "Run",
-    "C/C++ File.Exercicio2.c.executor": "Run",
-    "C/C++ File.Exercicio3.c.executor": "Run",
-    "C/C++ File.Leitura_Arquivos.c.executor": "Run",
-    "C/C++ File.Leitura_Arquivos2.c.executor": "Run",
-    "C/C++ File.Leitura_Arquivos_Soma.c.executor": "Run",
-    "C/C++ File.ManipularEntradas.c.executor": "Run",
-    "C/C++ File.OperacoesMatematicas.c.executor": "Run",
-    "C/C++ File.Ponteiros.c.executor": "Run",
-    "C/C++ File.Ponteiros2.c.executor": "Run",
-    "C/C++ File.Ponteiros4.c.executor": "Run",
-    "C/C++ File.Ponteiros_Arrays.c.executor": "Run",
-    "C/C++ File.Tipos_Numericos.c.executor": "Run",
-    "C/C++ File.numeros_binarios.c.executor": "Run",
-    "CMake Application.Cabecalho.executor": "Run",
-    "CMake Application.programa1.executor": "Run",
-    "CMake Debug.untitled.executor": "Debug",
-    "CidrDebugProfileConversion": "true",
-    "RunOnceActivity.RadMigrateCodeStyle": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Admin/Documents/Estudo_C",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.Cabecalho.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Definindo_TIpos2.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Definindo_Tipos.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Definindo_Tipos3.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Definindo_Tipos4.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Escrita_Arquivos.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Escrita_Arquivos2.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Exercicio1.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Exercicio2.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Exercicio3.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Leitura_Arquivos.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Leitura_Arquivos2.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Leitura_Arquivos_Soma.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.ManipularEntradas.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.OperacoesMatematicas.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Ponteiros.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Ponteiros2.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Ponteiros4.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Ponteiros_Arrays.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Tipos_Numericos.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Typedef.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Union.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Union2.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.numeros_binarios.c.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.Cabecalho.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.programa1.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Debug.untitled.executor&quot;: &quot;Debug&quot;,
+    &quot;CidrDebugProfileConversion&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Documents/Estudo_C&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="C/C++ File.Exercicio3.c">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="C/C++ File.Union2.c">
     <configuration name="Cabecalho" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="Cabecalho" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled" RUN_TARGET_NAME="Cabecalho">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -215,43 +211,43 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Escrita_Arquivos2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="Escrita_Arquivos2.c" CONFIG_NAME="Escrita_Arquivos2.c">
-      <option name="sourceFile" value="EntradaSaidas\Escrita_Arquivos2.c" />
+    <configuration name="Definindo_Tipos3.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="Definindo_Tipos3.c" CONFIG_NAME="Definindo_Tipos3.c">
+      <option name="sourceFile" value="Structs\Definindo_Tipos3.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="Exercicio1.c" CONFIG_NAME="Exercicio1.c">
-      <option name="sourceFile" value="EntradaSaidas\Exercicios\Exercicio1.c" />
+    <configuration name="Definindo_Tipos4.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="Definindo_Tipos4.c" CONFIG_NAME="Definindo_Tipos4.c">
+      <option name="sourceFile" value="Structs\Definindo_Tipos4.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="Exercicio2.c" CONFIG_NAME="Exercicio2.c">
-      <option name="sourceFile" value="EntradaSaidas\Exercicios\Exercicio2.c" />
+    <configuration name="Definindo_Tipos.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="Definindo_Tipos.c" CONFIG_NAME="Definindo_Tipos.c">
+      <option name="sourceFile" value="Structs\Definindo_Tipos.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio3.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="Exercicio3.c" CONFIG_NAME="Exercicio3.c">
-      <option name="sourceFile" value="EntradaSaidas\Exercicios\Exercicio3.c" />
+    <configuration name="Typedef.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="Typedef.c" CONFIG_NAME="Typedef.c">
+      <option name="sourceFile" value="Structs\Typedef.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperacoesMatematicas.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="OperacoesMatematicas.c" CONFIG_NAME="OperacoesMatematicas.c">
-      <option name="sourceFile" value="tipos_dados\OperacoesMatematicas.c" />
+    <configuration name="Union2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="Union2.c" CONFIG_NAME="Union2.c">
+      <option name="sourceFile" value="Structs\Union2.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Union.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="Union.c" CONFIG_NAME="Union.c">
+      <option name="sourceFile" value="Structs\Union.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.Cabecalho.c" />
-      <item itemvalue="C/C++ File.Exercicio3.c" />
-      <item itemvalue="C/C++ File.OperacoesMatematicas.c" />
-      <item itemvalue="C/C++ File.Exercicio1.c" />
-      <item itemvalue="C/C++ File.Exercicio2.c" />
-      <item itemvalue="C/C++ File.Escrita_Arquivos2.c" />
       <item itemvalue="CMake Application.Cabecalho" />
       <item itemvalue="CMake Application.DoWhile" />
       <item itemvalue="CMake Application.EstruturaDecisao" />
@@ -266,66 +262,79 @@
       <item itemvalue="CMake Application.While" />
       <item itemvalue="CMake Application.numeros_binarios" />
       <item itemvalue="CMake Application.programa1" />
+      <item itemvalue="C/C++ File.Cabecalho.c" />
+      <item itemvalue="C/C++ File.Definindo_Tipos3.c" />
+      <item itemvalue="C/C++ File.Definindo_Tipos4.c" />
+      <item itemvalue="C/C++ File.Definindo_Tipos.c" />
+      <item itemvalue="C/C++ File.Typedef.c" />
+      <item itemvalue="C/C++ File.Union2.c" />
+      <item itemvalue="C/C++ File.Union.c" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.Exercicio3.c" />
-        <item itemvalue="C/C++ File.Exercicio2.c" />
-        <item itemvalue="C/C++ File.Exercicio1.c" />
-        <item itemvalue="C/C++ File.OperacoesMatematicas.c" />
-        <item itemvalue="C/C++ File.Escrita_Arquivos2.c" />
+        <item itemvalue="C/C++ File.Union2.c" />
+        <item itemvalue="C/C++ File.Union.c" />
+        <item itemvalue="C/C++ File.Typedef.c" />
+        <item itemvalue="C/C++ File.Definindo_Tipos4.c" />
+        <item itemvalue="C/C++ File.Definindo_Tipos3.c" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SelectedDebugProfileService"><![CDATA[{
-  "profileIdByStamp": [
+  <component name="SelectedDebugProfileService">{
+  &quot;profileIdByStamp&quot;: [
     {
-      "first": {
-        "##RUN_CONFIGURATION##": "C/C++ File.OperacoesMatematicas.c"
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;C/C++ File.Union.c&quot;
       },
-      "second": "5289e497-7f63-4972-8472-059a645a2674"
+      &quot;second&quot;: &quot;5289e497-7f63-4972-8472-059a645a2674&quot;
     },
     {
-      "first": {
-        "##RUN_CONFIGURATION##": "C/C++ File.Escrita_Arquivos2.c"
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;CMake Application.Cabecalho&quot;,
+        &quot;cmake&quot;: &quot;CMakeBuildProfile:Debug&quot;
       },
-      "second": "5289e497-7f63-4972-8472-059a645a2674"
+      &quot;second&quot;: &quot;5289e497-7f63-4972-8472-059a645a2674&quot;
     },
     {
-      "first": {
-        "##RUN_CONFIGURATION##": "CMake Application.Cabecalho",
-        "cmake": "CMakeBuildProfile:Debug"
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;C/C++ File.Definindo_Tipos4.c&quot;
       },
-      "second": "5289e497-7f63-4972-8472-059a645a2674"
+      &quot;second&quot;: &quot;5289e497-7f63-4972-8472-059a645a2674&quot;
     },
     {
-      "first": {
-        "##RUN_CONFIGURATION##": "C/C++ File.Exercicio1.c"
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;C/C++ File.Definindo_Tipos3.c&quot;
       },
-      "second": "5289e497-7f63-4972-8472-059a645a2674"
+      &quot;second&quot;: &quot;5289e497-7f63-4972-8472-059a645a2674&quot;
     },
     {
-      "first": {
-        "##RUN_CONFIGURATION##": "C/C++ File.Exercicio2.c"
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;C/C++ File.Union2.c&quot;
       },
-      "second": "5289e497-7f63-4972-8472-059a645a2674"
+      &quot;second&quot;: &quot;5289e497-7f63-4972-8472-059a645a2674&quot;
     },
     {
-      "first": {
-        "##RUN_CONFIGURATION##": "C/C++ File.Exercicio3.c"
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;C/C++ File.Definindo_Tipos.c&quot;
       },
-      "second": "5289e497-7f63-4972-8472-059a645a2674"
+      &quot;second&quot;: &quot;5289e497-7f63-4972-8472-059a645a2674&quot;
     },
     {
-      "first": {
-        "##RUN_CONFIGURATION##": "CMake Application.programa1",
-        "cmake": "CMakeBuildProfile:Debug"
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;C/C++ File.Typedef.c&quot;
       },
-      "second": "5289e497-7f63-4972-8472-059a645a2674"
+      &quot;second&quot;: &quot;5289e497-7f63-4972-8472-059a645a2674&quot;
+    },
+    {
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;CMake Application.programa1&quot;,
+        &quot;cmake&quot;: &quot;CMakeBuildProfile:Debug&quot;
+      },
+      &quot;second&quot;: &quot;5289e497-7f63-4972-8472-059a645a2674&quot;
     }
   ],
-  "modificationCount": 48
-}]]></component>
+  &quot;modificationCount&quot;: 66
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="70a4db56-e35e-4466-a67a-39f5e0493122" name="Changes" comment="" />
